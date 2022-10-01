@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    height: 25px;
+    background-color: lightgray;
+}
+h4{
+    display: inline-block;
+    margin-left: 30px;
+}
+h3{
+    display: inline-block;
+    margin-left: 800px;
+}
